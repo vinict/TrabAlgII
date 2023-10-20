@@ -1,0 +1,16 @@
+A
+32 - ACUCAR_MASCAVO - 5 - 5.50
+31 - ARROZ - 10 - 5.90
+E
+43 - ESCOVA_DE_DENTE - 40 - 6.95
+S
+41 - SABAO_EM_BARRA - 12 - 4.00
+42 - SABAO_EM_PO - 20 - 6.95
+a
+1 - agua - 20 - 3.21
+c
+3 - coxinha - 90 - 5.98
+r
+2 - refri - 28 - 9.99
+s
+4 - salgado - 3 - 10.99

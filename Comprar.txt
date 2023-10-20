@@ -1,0 +1,4 @@
+4 - salgado - 3
+32 - ACUCAR_MASCAVO - 5
+31 - ARROZ - 10
+41 - SABAO_EM_BARRA - 12
